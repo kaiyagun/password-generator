@@ -1,4 +1,9 @@
 
+@font-face {
+  font-family: coolFont;
+  src: url("./font/PermanentMarker-Regular.ttf")
+}
+
 body {
   font-family: coolFont;
   background-color: #f9fbfd;
